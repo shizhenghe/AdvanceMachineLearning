@@ -1,0 +1,11 @@
+{
+  "recommended_model": "ensemble",
+  "policy": "maximum validation checkpoint IoU + mAP50; no test metric used",
+  "validation_scores": {
+    "joint": 0.39811539476381247,
+    "fusion": 0.45550641955358845,
+    "full": 0.47556437756820585,
+    "balanced": 0.4964308582917983,
+    "ensemble": 0.6532301012673911
+  }
+}

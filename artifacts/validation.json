@@ -1,0 +1,10 @@
+{
+  "metric_scenarios_passed": 3,
+  "inference_integration": "passed",
+  "training_runs": 6,
+  "epochs_per_run": 40,
+  "evaluated_schemes": 7,
+  "generated_images": 120,
+  "word_embedded_figures": 5,
+  "chinese_characters": 5371
+}

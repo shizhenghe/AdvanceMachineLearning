@@ -1,0 +1,7 @@
+torch>=2.2
+numpy
+scipy
+Pillow
+matplotlib
+scikit-learn
+python-docx

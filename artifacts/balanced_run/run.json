@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "size": 64,
+  "epochs": 40,
+  "images": 1344,
+  "train": 860,
+  "val": 215,
+  "test": 269,
+  "seconds": 352.1585216522217,
+  "modes": [
+    "balanced"
+  ],
+  "torch": "2.15.0+cpu"
+}

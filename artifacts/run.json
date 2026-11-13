@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "size": 64,
+  "epochs": 40,
+  "images": 1344,
+  "train": 860,
+  "val": 215,
+  "test": 269,
+  "seconds": 977.4892671108246,
+  "torch": "2.15.0+cpu",
+  "balanced_merged": true,
+  "balanced_threads": 1,
+  "modes": [
+    "det",
+    "seg",
+    "joint",
+    "fusion",
+    "full",
+    "balanced",
+    "ensemble"
+  ]
+}

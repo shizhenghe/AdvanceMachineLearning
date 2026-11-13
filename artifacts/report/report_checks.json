@@ -1,0 +1,10 @@
+{
+  "chinese_characters": 5371,
+  "figures": 5,
+  "comparisons": {
+    "mAP50": true,
+    "mAP50_95": true,
+    "IoU": true,
+    "mIoU": true
+  }
+}
